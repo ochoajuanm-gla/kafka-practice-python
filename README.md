@@ -6,6 +6,7 @@
 
 ```bash
 git clone git@github.com:ochoajuanm-gla/kafka-practice-python.git
+cd kafka-practice-python/
 ```
 
 ### Instalar el entorno
